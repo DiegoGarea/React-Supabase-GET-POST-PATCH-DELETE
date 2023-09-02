@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/React-Supabase-GET-POST-PATCH-DELETE/static/css/main.f2dee034.css",
-    "main.js": "/React-Supabase-GET-POST-PATCH-DELETE/static/js/main.eacbdf84.js",
-    "index.html": "/React-Supabase-GET-POST-PATCH-DELETE/index.html",
-    "main.f2dee034.css.map": "/React-Supabase-GET-POST-PATCH-DELETE/static/css/main.f2dee034.css.map",
-    "main.eacbdf84.js.map": "/React-Supabase-GET-POST-PATCH-DELETE/static/js/main.eacbdf84.js.map"
+    "main.css": "/React-Supabase-fetch/static/css/main.f2dee034.css",
+    "main.js": "/React-Supabase-fetch/static/js/main.eacbdf84.js",
+    "index.html": "/React-Supabase-fetch/index.html",
+    "main.f2dee034.css.map": "/React-Supabase-fetch/static/css/main.f2dee034.css.map",
+    "main.eacbdf84.js.map": "/React-Supabase-fetch/static/js/main.eacbdf84.js.map"
   },
   "entrypoints": [
     "static/css/main.f2dee034.css",
